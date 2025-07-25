@@ -7,6 +7,8 @@
     [cellranger-atac output files](https://ucsf.box.com/s/4zfvd9wplgwholfjuw1tbglw1ygp3fs8)
     
 &nbsp;&nbsp;&nbsp;&nbsp;[ATAC-seq tracks](https://genome.ucsc.edu/s/brianpenghe/scATAC_fetal_lung20211206)
+
+&nbsp;&nbsp;&nbsp;&nbsp;[ATAC-seq tracks with peaks](https://genome.ucsc.edu/s/brianpenghe/scATAC_fetal_lung20211206withPeaks)
 #### [*in situ* staining Images](https://fetal-lung.cellgeni.sanger.ac.uk/figures.html)
 #### [Visium spatial transcriptomics](https://fetal-lung.cellgeni.sanger.ac.uk/visium.html)
 #### [RNA velocyto file](https://cellgeni.cog.sanger.ac.uk/fetal-lung/velocyto-001.h5ad)
